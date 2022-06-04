@@ -1,2 +1,1 @@
-# reactAmazon-clone
-Created with CodeSandbox
+# amazon-clone
